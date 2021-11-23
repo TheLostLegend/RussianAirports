@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="SHOP@DESKTOP-84O8KNE" uuid="4b236460-2bda-422d-8982-292689d23818">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://DESKTOP-84O8KNE\SQLEXPRESS:1307;database=SHOP</jdbc-url>
+    </data-source>
+  </component>
+</project>

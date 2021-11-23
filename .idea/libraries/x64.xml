@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="x64">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sqljdbc_9.2/rus/mssql-jdbc-9.2.1.jre11.jar!/" />
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/sqljdbc_9.2/rus/auth/x64" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/sqljdbc_9.2/rus/samples/adaptive" />
+      <root url="file://$PROJECT_DIR$/sqljdbc_9.2/rus/samples/alwaysencrypted" />
+      <root url="file://$PROJECT_DIR$/sqljdbc_9.2/rus/samples/azureactivedirectoryauthentication" />
+      <root url="file://$PROJECT_DIR$/sqljdbc_9.2/rus/samples/connections" />
+      <root url="file://$PROJECT_DIR$/sqljdbc_9.2/rus/samples/constrained" />
+      <root url="file://$PROJECT_DIR$/sqljdbc_9.2/rus/samples/dataclassification" />
+      <root url="file://$PROJECT_DIR$/sqljdbc_9.2/rus/samples/datatypes" />
+      <root url="file://$PROJECT_DIR$/sqljdbc_9.2/rus/samples/resultsets" />
+      <root url="file://$PROJECT_DIR$/sqljdbc_9.2/rus/samples/sparse" />
+      <root url="file://$PROJECT_DIR$/src" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/mssql-jdbc-9.2.1.jre11-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$" recursive="false" />
+  </library>
+</component>
